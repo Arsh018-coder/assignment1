@@ -1,0 +1,8 @@
+# Electric Capital ecosystem entry for Algorand Sample Project
+
+name = "algorand-sample-project"
+repo = "https://github.com/Arsh018-Coder/assignment1"
+ecosystem = "algorand"
+language = "python"
+topics = ["algorand", "blockchain", "sample"]
+
